@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contraction Timer</string>
+    <string name="contraction_stopped">CONTRACTION STOPPED </string>
+    <string name="contraction_started"> CONTRACTION STARTED </string>
+    <string name="contraction_frequency">Contractions: %d</string>
+    <string name="contractions">CONTRACTIONS</string>
+    <string name="avg_duration">Avg Duration</string>
+    <string name="contractions_per_hour">Contractions per hour</string>
+    <string name="avg_frequency">Avg Frequency</string>
+    <string name="duration">Duration</string>
+    <string name="frequency">Frequency</string>
+    <string name="pregnancy_illustration">Pregnancy Illustration</string>
+    <string name="count_contractions">Count Contractions</string>
+    <string name="time_several_contractions_and_the_application_will_let_you_know_whether_it_s_time_to_go_to_the_hospital">Time several contractions and the application will let you know whether it\'s time to go to the hospital</string>
+    <string name="settings">Settings</string>
+
+</resources>
