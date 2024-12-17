@@ -11,12 +11,12 @@ Tap "STOP" once the contraction ends.
 Each recorded contraction will appear in a list, showing its duration, frequency, and start time.
 The top of the screen displays summary statistics for all recorded contractions.
 
-#Purpose
+# Purpose
 The primary goal of creating this app was to strengthen Android development skills by implementing core features such as RecyclerView, ConstraintLayout, and managing data dynamically in a user-friendly UI. This project also helped in mastering efficient data binding and working with Android Studio's tools for seamless design and logic integration.
 
 The secondary goal was to create a meaningful app that could potentially provide value in real-life scenarios, particularly for expecting parents or caregivers monitoring labor progress.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/glzZxnLFlwk)
 
 # Development Environment
 
